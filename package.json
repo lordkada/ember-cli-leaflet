@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-leaflet",
-  "version": "0.7.5-SNAPSHOT",
+  "version": "0.7.5",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
